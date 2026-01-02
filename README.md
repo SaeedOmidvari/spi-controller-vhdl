@@ -11,6 +11,7 @@ Configurable SPI Master controller written in VHDL.
 - Synthesizable (FPGA-ready)
 
 ## Files
+- `docs/SPI_Controlle_tb_behav.png`
 - `rtl/SPI_Controller.vhd`
 - `tb/SPI_Controller_tb.vhd`
 
